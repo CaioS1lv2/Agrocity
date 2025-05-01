@@ -1,2 +1,9 @@
-# AgroCity
-Startup com foco em horta lícios produzidos na cidade grande para o bem estar
+# `AGROCITY` 
+`Trabalho interdisciplinar - aplicação Web`
+`Analise e Desenvolvimento de Sistema`
+`Terceiro Semestre`
+
+## Participantes
+ - Caio Silva
+## Estrutura do projeto 
+1. 
