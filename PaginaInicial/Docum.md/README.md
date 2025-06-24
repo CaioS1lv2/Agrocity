@@ -3,7 +3,6 @@
 
 `Analise e Desenvolvimento de Sistema`
 
-`Terceiro Semestre`
 
 ## Participantes
  - Caio Silva
