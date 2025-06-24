@@ -1,5 +1,5 @@
 # `AGROCITY` 
-`Trabalho interdisciplinar - aplicação Web`
+`Trabalho interdisciplinar - aplicação Web e Mobile`
 
 `Analise e Desenvolvimento de Sistema`
 
