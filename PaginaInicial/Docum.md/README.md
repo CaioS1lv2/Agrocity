@@ -4,7 +4,7 @@
 `Analise e Desenvolvimento de Sistema` 
 
 
-## Participantes da equipe
+## Participantes 
  - Caio Silva
  - Gdd
 ## Estrutura do projeto 
