@@ -6,6 +6,10 @@
 `Terceiro Semestre`
 
 `Aplicativo web e mobile para facilitar a gestão e compra de produtos agropecuários`
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo AgroCity" width="200">
+</p>
+
 
 ## Participantes
  - Caio Silva
