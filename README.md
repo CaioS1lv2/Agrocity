@@ -14,6 +14,3 @@
 2.   [Planejamento_Projeto.md](https://github.com/CaioS1lv2/Agrocity/blob/main/Documentos/2.%20Planejamento_Projeto.md)
 3.   [Classe_UML.png](https://github.com/CaioS1lv2/Agrocity/blob/main/Documentos/3.%20Classe%20UML.png)
 
-# AGROCITY 
-
-![AGROCITY Logo](./assets/Agrocitylogo.png)
