@@ -7,7 +7,7 @@
 
 `Aplicativo web e mobile para facilitar a gestão e compra de produtos agropecuários`
 <p align="center">
-  <img src="https://github.com/CaioS1lv2/Agrocity/blob/main/img/Agrocity%20logo.png" alt="Logo AgroCity" width="200">
+  <img src="https://github.com/CaioS1lv2/Agrocity/blob/main/img/Agrocity_logo_s.png" alt="Logo AgroCity" width="270">
 </p>
 
 
