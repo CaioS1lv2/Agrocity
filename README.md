@@ -12,7 +12,7 @@
 </p>
 
 
-## Participantes
+## Criador
  - Caio Silva
 ## Estrutura do projeto 
 1.   [Contexto.md](https://github.com/CaioS1lv2/Agrocity/blob/main/Documentos/1.%20Contexto.md)
