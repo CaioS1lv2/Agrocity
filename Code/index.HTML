@@ -1,1 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgroCity — Conectando o campo ao futuro</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background-color: #228B22;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    .hero {
+      background: url("https://picsum.photos/1200/400?grayscale") no-repeat center center/cover;
+      color: white;
+      text-align: center;
+      padding: 80px 20px;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 1.2rem;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 10px 0;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌱 AgroCity</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#solucoes">Soluções</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
 
+  <section class="hero">
+    <h1>Conectando o campo ao futuro</h1>
+    <p>Plataforma que integra dados, logística e sustentabilidade.</p>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre a AgroCity</h2>
+    <p>A AgroCity nasceu para aproximar o campo das cidades inteligentes. Nosso objetivo é facilitar o acesso a dados de qualidade, melhorar a logística e impulsionar a sustentabilidade em toda a cadeia.</p>
+  </section>
+
+  <section id="solucoes">
+    <h2>Soluções</h2>
+    <div class="card">
+      <h3>📈 Monitoramento de dados</h3>
+      <p>Visualize indicadores úteis de sensores em um só painel.</p>
+    </div>
+    <div class="card">
+      <h3>🚚 Logística inteligente</h3>
+      <p>Otimize rotas e janelas de coleta/entrega com base em demanda.</p>
+    </div>
+    <div class="card">
+      <h3>🌿 Sustentabilidade</h3>
+      <p>Automatize processos para reduzir desperdício e consumo.</p>
+    </div>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <form>
+      <label for="nome">Nome:</label><br>
+      <input type="text" id="nome" name="nome"><br><br>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email"><br><br>
+      <label for="msg">Mensagem:</label><br>
+      <textarea id="msg" name="msg" rows="4"></textarea><br><br>
+      <button type="submit">Enviar</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 AgroCity — Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
